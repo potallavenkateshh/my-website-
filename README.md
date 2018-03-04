@@ -1,1 +1,5 @@
-Creating to check the branches
+my website 
+
+This is a really awesome website 
+Edit on example branch 
+No edititng on update-readme branch
